@@ -13,6 +13,7 @@
 - Commit main 4
 
 - Commit main 5
+
 - Commit main 6
 
 - Commit main 7
@@ -22,4 +23,12 @@
 - Commit rama auxiliar2 1
 
 - Commit rama auxiliar2 2
+
+- Commit rama auxiliar 1
+- Commit rama auxiliar 2
+
+- Commit ramaNueva 1
+- Commit ramaNueva 2
+- Commit ramaNueva 3
+- Commit ramaNueva 4
 
